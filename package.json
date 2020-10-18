@@ -2,6 +2,7 @@
   "name": "vue-ketang-ts",
   "version": "0.1.0",
   "private": true,
+  "description": "This is a simple web app by vue3 & typescript",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
